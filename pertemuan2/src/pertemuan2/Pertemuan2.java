@@ -16,6 +16,10 @@ public class Pertemuan2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Mamalia m = new Mamalia("ujicoba");
+        System.out.println(m.getNama());
     }
+    
+    
     
 }
